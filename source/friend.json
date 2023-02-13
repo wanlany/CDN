@@ -1,0 +1,24 @@
+{
+  "friends": [
+    [
+      "随风起",   # 友链名称
+      "https://blog.bywind.xyz/",  # 友链地址
+      "https://cloud-image-host.oss-cn-beijing.aliyuncs.com/wo.jpg"  # 友链头像
+    ],
+    [
+      "张洪Heo",  # 友链名称
+      "https://blog.zhheo.com/",  # 友链地址
+      "https://img.zhheo.com/i/2022/08/19/62ff32fa28da1.png" # 友链头像
+    ],
+    [
+      "Jayhrn", # 友链名称
+      "https://blog.jayhrn.com/", # 友链地址
+      "https://unpkg.com/jayblog-source@1.0.1/img/normal/avatar.webp" # 友链头像
+    ],
+     [
+      "安知鱼`Blog", # 友链名称
+      "https://anzhiy.cn/", # 友链地址
+      "https://image.anzhiy.cn/adminuploads/1/2022/09/15/63232b7d91d22.jpg" # 友链头像
+    ]
+  ]
+}
